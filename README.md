@@ -15,6 +15,12 @@ Output:
 
 
 Task 4
-<h1>Enter Number to print Starics</h1>
+<h1>Enter Number to print asterisk</h1>
 Output:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/185968487-e610a4f9-1cd8-4e31-9404-c0e8898cbb41.png">
+
+
+Task 5
+<h1>Enter Area of Rectangle</h1>
+Output:
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/185969897-04997ca5-ab7b-4bd6-9169-5e444f7312df.png">
