@@ -9,7 +9,7 @@ Output:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/185967896-685bef1e-9f9c-443e-8f1f-531cfe2473fc.png">
 
 Task 3
-<h1>Print Stariks</h1>
+<h1>Print asterisk</h1>
 Output:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/185968367-db0801cf-d6f7-4d4a-b880-957854248f21.png">
 
