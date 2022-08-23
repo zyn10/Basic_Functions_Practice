@@ -24,3 +24,28 @@ Task 5
 <h1>Enter Area of Rectangle</h1>
 Output:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/185969897-04997ca5-ab7b-4bd6-9169-5e444f7312df.png">
+
+
+Task 6
+<h1>Radian to Degree</h1>
+Output:
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/186220479-dd338070-13af-4b0c-a1d9-97b6b9f33f13.png">
+
+
+Task 7
+<h1>Factorial Calculation</h1>
+Output:
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/186220747-11718093-eb2f-47da-9343-a4d67129a2bb.png">
+
+Task 8
+<h1>Greatest Common Divisor</h1>
+Output:
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/186221126-9ef03251-76d9-493f-9e83-c91960ec7eff.png">
+
+Task 9
+<h1>Area of Circle</h1>
+Output:
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/95617382/186221271-87c636d0-ba20-4fe4-bbf1-e928e74225f8.png">
+
+
+
